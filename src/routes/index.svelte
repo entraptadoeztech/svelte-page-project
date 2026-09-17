@@ -7,7 +7,7 @@
 		<div class="links">
 			<a href="/page-1">Page 1</a>
 			<a href="/page-2">Page 2</a>
-            <a href = "/test/page1">Idk</a>
+            <a href = "test/page1">Idk</a>
 		</div>
 	</div>
 </div>
