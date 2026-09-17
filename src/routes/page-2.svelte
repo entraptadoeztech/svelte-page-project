@@ -1,15 +1,3 @@
-<script context="module">
-	export async function load({ page, fetch, session, context }) {
-		// Sleep for 5 seconds
-		const sleep = new Promise((resolve) => setTimeout(resolve, 5000));
-		await sleep;
-    // Have to return something properly finish this function
-    // Typically you'll return props, errors, redirects etc
-		return {};
-	}
-</script>
-
-
 <div class="container">
 	<div class="content">
 		<h1>You're on Page 2.</h1>
