@@ -1,8 +1,4 @@
 <script lang="ts">
-	import { fade } from 'svelte/transition';
-
-	import navigationState from '../stores/navigationState';
-	import PageLoader from '../components/PageLoader.svelte';
 	import '../styles/global.css';
 </script>
 
