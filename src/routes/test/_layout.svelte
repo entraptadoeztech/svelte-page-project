@@ -3,7 +3,7 @@
 
 	import navigationState from '../stores/navigationState';
 	import PageLoader from '../components/PageLoader.svelte';
-	import '.../styles/test.css';
+	import 'https://raw.githubusercontent.com/entraptadoeztech/sveltekit-page-progress-demo/refs/heads/main/src/styles/test.css';
 </script>
 
 <svelte:window
