@@ -1,5 +1,5 @@
 <script lang="ts">
-	import 'https://raw.githubusercontent.com/entraptadoeztech/sveltekit-page-progress-demo/refs/heads/main/src/styles/test.css';
+	import '../styles/global.css';
 </script>
 
 <slot />
