@@ -4,7 +4,7 @@
 
 <h1>Fan art!</h1>
 <img
-  src="IMG_0309.gif"
+  src="/IMG_0309.gif"
   alt="Felix"
   loading="lazy"
   decoding="async"
