@@ -7,7 +7,7 @@ Check out the random pages
 		<div class="links">
             <a href = "/+test/+page">
 <img
-  src="/IMG_1332.jpeg"
+  src="/IMG_1279.webp"
   alt="meow"
   loading="lazy"
   decoding="async"
