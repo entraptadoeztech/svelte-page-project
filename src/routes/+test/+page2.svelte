@@ -65,7 +65,7 @@ background-color:#2c14ff;
 <marquee behavior="scroll" direction="left">
             <img src = "/IMG_0256.gif"
                 alt="blinkie">
-<img src = "/IMG_0256.gif"
+<img src = "/IMG_0258.gif"
                 alt="blinkie">
 <img src = "/IMG_0256.gif"
                 alt="blinkie">
