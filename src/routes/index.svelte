@@ -8,9 +8,9 @@ Check out the random pages
 <center>
             <a href = "/+test/+page">
 <img
-  src="/IMG_1254.webp"
+  src="/IMG_1277.gif"
   width = "auto"
-  height = "250px"
+  height = "100px"
   alt="meow"
   loading="lazy"
   decoding="async"
