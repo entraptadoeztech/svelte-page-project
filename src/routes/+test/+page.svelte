@@ -9,7 +9,7 @@
 </p>
 
 <img
-  src="/IMG_1332.jpeg"
+  src="IMG_1332.jpeg"
   alt="Felix"
   loading="lazy"
   decoding="async"
