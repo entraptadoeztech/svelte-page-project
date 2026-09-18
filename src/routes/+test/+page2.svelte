@@ -62,3 +62,8 @@ background-color:#2c14ff;
     margin: 1rem 0;
   }
 </style>
+<marquee behavior="scroll" direction="left">
+            <img scr = ""
+                alt="blinkie">
+        </marquee>
+
