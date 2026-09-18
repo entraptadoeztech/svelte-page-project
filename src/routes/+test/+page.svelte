@@ -30,7 +30,7 @@ background-color:#2c14ff;
   p {
     margin-bottom: 1rem;
     line-height: 1.5;
-    color:plum
+    color:plum;
   }
 
   .links {
