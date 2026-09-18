@@ -8,6 +8,8 @@ Check out the random pages
             <a href = "/+test/+page">
 <img
   src="/IMG_1254.webp"
+  width = "80px"
+  height = "auto"
   alt="meow"
   loading="lazy"
   decoding="async"
