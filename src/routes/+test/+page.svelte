@@ -1,3 +1,6 @@
+<script lang="ts">
+	import '../styles/test.css';
+</script>
 <h1>Testingggggg</h1>
 		<p>
 		this website loads faster than regular html websites(wow)
