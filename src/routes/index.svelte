@@ -10,7 +10,7 @@ Check out the random pages
 <img
   src="/IMG_1254.webp"
   width = "auto"
-  height = "200px"
+  height = "300px"
   alt="meow"
   loading="lazy"
   decoding="async"
