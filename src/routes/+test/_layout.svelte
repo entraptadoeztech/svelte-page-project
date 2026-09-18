@@ -1,5 +1,5 @@
 <script lang="ts">
-	import '../styles/global.css';
+	import '../styles/test.css';
 </script>
 
 <slot />
