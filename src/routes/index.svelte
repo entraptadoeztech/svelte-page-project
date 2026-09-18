@@ -15,4 +15,9 @@ Check out the random pages
                 </a>
 		</div>
 	</div>
+<style>
+a {
+color:inherit;
+}
+</style>
 </div>
