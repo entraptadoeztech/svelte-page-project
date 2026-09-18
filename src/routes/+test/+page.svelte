@@ -23,7 +23,7 @@
   h1 {
     margin-bottom: 1rem;
   }
-body{
+html {
 background-color:#2c14ff;
 }
 
