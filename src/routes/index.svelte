@@ -5,16 +5,18 @@
 Check out the random pages 
 		</p>
 		<div class="links">
+<center>
             <a href = "/+test/+page">
 <img
   src="/IMG_1254.webp"
-  width = "80px"
-  height = "auto"
+  width = "auto"
+  height = "100px"
   alt="meow"
   loading="lazy"
   decoding="async"
 />
                 </a>
+</center>
 		</div>
 	</div>
 <style>
