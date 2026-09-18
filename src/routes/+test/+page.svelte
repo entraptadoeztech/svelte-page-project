@@ -3,7 +3,6 @@
 </svelte:head>
 
 <h1>Testing</h1>
-
 <p>
   This website loads faster than a typical HTML site. Wow.
 </p>
@@ -17,7 +16,6 @@
   decoding="async"
 />
 <p>It's felix!</p>
-</nav>
 
 <style>
   h1 {
