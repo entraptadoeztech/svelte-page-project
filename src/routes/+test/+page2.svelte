@@ -63,7 +63,7 @@ background-color:#2c14ff;
   }
 </style>
 <marquee behavior="scroll" direction="left">
-            <img scr = ""
+            <img src = "/IMG_0256.gif"
                 alt="blinkie">
         </marquee>
 
