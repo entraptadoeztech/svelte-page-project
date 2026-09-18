@@ -6,7 +6,12 @@ Check out the random pages
 		</p>
 		<div class="links">
             <a href = "/+test/+page">
-
+<img
+  src="/IMG_1332.jpeg"
+  alt="meow"
+  loading="lazy"
+  decoding="async"
+/>
                 </a>
 		</div>
 	</div>
