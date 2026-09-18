@@ -14,7 +14,7 @@
 />
 <br>
 <img
-  src="/IMG_1334.jpeg"
+  src="/IMG_1336.jpeg"
   alt="Felix"
   loading="lazy"
   decoding="async"
