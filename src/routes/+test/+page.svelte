@@ -9,12 +9,14 @@
 <nav class="links" aria-label="Main navigation">
   <a href="/">Home</a>
 </nav>
+<a href = "/+page2">
 <img
   src="/IMG_1332.jpeg"
   alt="Felix"
   loading="lazy"
   decoding="async"
 />
+</a>
 <p>It's felix!</p>
 
 <style>
