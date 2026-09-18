@@ -7,13 +7,11 @@
   <a href="/">Home</a>
 </nav>
 <img
-  src="/IMG_1332.jpeg"
+  src="/IMG_1334.jpeg"
   alt="Felix"
   loading="lazy"
   decoding="async"
 />
-<p>It's felix!</p>
-
 <style>
   h1 {
     margin-bottom: 1rem;
