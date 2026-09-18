@@ -7,7 +7,9 @@
 <p>
   This website loads faster than a typical HTML site. Wow.
 </p>
-
+<nav class="links" aria-label="Main navigation">
+  <a href="/">Home</a>
+</nav>
 <img
   src="/IMG_1332.jpeg"
   alt="Felix"
@@ -15,8 +17,6 @@
   decoding="async"
 />
 <p>It's felix!</p>
-<nav class="links" aria-label="Main navigation">
-  <a href="/">Home</a>
 </nav>
 
 <style>
