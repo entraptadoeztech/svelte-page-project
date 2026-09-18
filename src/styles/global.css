@@ -1,10 +1,10 @@
 body {
 	font-family: sans-serif;
-  background-color: violet;
+  background-color: blueviolet;
 }
 
 h1 {
-  color: #222;
+  color: pink;
   word-wrap: break-word;
   max-width: 50rem;
 }
