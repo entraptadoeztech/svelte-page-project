@@ -3,15 +3,15 @@
 </svelte:head>
 
 <h1>Fan art!</h1>
+<nav class="links" aria-label="Main navigation">
+  <a href="/">Home</a>
+</nav>
 <img
   src="/IMG_0309.gif"
   alt="Felix"
   loading="lazy"
   decoding="async"
 />
-<nav class="links" aria-label="Main navigation">
-  <a href="/">Home</a>
-</nav>
 <img
   src="/IMG_1334.jpeg"
   alt="Felix"
