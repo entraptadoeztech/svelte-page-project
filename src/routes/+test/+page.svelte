@@ -23,6 +23,9 @@
   h1 {
     margin-bottom: 1rem;
   }
+body{
+background-color:#2c14ff;
+}
 
   p {
     margin-bottom: 1rem;
