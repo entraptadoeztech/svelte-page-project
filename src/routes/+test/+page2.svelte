@@ -12,6 +12,13 @@
   loading="lazy"
   decoding="async"
 />
+<br>
+<img
+  src="/IMG_1334.jpeg"
+  alt="Felix"
+  loading="lazy"
+  decoding="async"
+/>
 <style>
   h1 {
     margin-bottom: 1rem;
