@@ -5,7 +5,9 @@
 Check out the random pages 
 		</p>
 		<div class="links">
-            <a href = "/+test/+page">Idk</a>
+            <a href = "/+test/+page">
+
+                </a>
 		</div>
 	</div>
 </div>
