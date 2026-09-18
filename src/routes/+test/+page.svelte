@@ -1,5 +1,5 @@
 <script lang="ts">
-	import '../styles/test.css';
+	import 'https://raw.githubusercontent.com/entraptadoeztech/sveltekit-page-progress-demo/refs/heads/main/src/styles/test.css';
 </script>
 
 <h1>Testingggggg</h1>
