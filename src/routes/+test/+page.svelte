@@ -1,7 +1,7 @@
 <h1>Testingggggg</h1>
 		<p>
 		this website loads faster than regular html websites(wow)
-        <img src="/logo.png" alt="Felix" />
+        <img src="/IMG_1332.jpeg" alt="Felix" />
 
 </p>
 		<div class="links">
