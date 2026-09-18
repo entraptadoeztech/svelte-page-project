@@ -1,5 +1,5 @@
 <script lang="ts">
-	import '.../styles/test.css';
+	import '../styles/test.css';
 </script>
 
 <h1>Testingggggg</h1>
