@@ -67,7 +67,5 @@ background-color:#2c14ff;
                 alt="blinkie">
 <img src = "/IMG_0258.gif"
                 alt="blinkie">
-<img src = "/IMG_0256.gif"
-                alt="blinkie">
         </marquee>
 
