@@ -9,7 +9,7 @@
 <nav class="links" aria-label="Main navigation">
   <a href="/">Home</a>
 </nav>
-<a href = "/+page2">
+<a href = "/+test/+page2">
 <img
   src="/IMG_1332.jpeg"
   alt="Felix"
