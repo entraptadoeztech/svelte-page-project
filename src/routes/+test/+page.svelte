@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>Test Page</title>
+  <title>Felix</title>
 </svelte:head>
 
 <h1>Testing</h1>
@@ -14,7 +14,7 @@
   loading="lazy"
   decoding="async"
 />
-
+<p>It's felix!</p>
 <nav class="links" aria-label="Main navigation">
   <a href="/">Home</a>
   <a href="/page-2">Page 2</a>
@@ -28,6 +28,7 @@
   p {
     margin-bottom: 1rem;
     line-height: 1.5;
+    color:plum
   }
 
   .links {
