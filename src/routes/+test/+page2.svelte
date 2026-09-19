@@ -9,7 +9,6 @@
 <img
   src="/IMG_0309.gif"
   alt="Felix"
-  height: auto;
   loading="lazy"
   decoding="async"
 />
