@@ -63,72 +63,7 @@ background-color:#2c14ff;
     margin: 1rem 0;
   }
 </style>
-<script>
-  // 1. Define your array of image URLs or paths
-  let images = [
-    '/IMG_0256.gif',
-    '/IMG_0256.gif'
-  ];
-</script>
 
-<!-- 2. The Marquee Container -->
-<div class="marquee-container">
-  <!-- We duplicate the track to ensure a seamless, gapless loop -->
-  <div class="marquee-track">
-    {#each images as img}
-      <img src={img} alt="Marquee item" />
-    {/each}
-  </div>
-  
-  <div class="marquee-track" aria-hidden="true">
-    {#each images as img}
-      <img src={img} alt="" />
-    {/each}
-  </div>
-</div>
-
-<style>
-  /* Hide scrollbars and clip the edges */
-  .marquee-container {
-    overflow: hidden;
-    display: flex;
-    width: 100%;
-    user-select: none;
-    padding: 10px 0;
-  }
-
-  /* The track holds the images and moves left */
-  .marquee-track {
-    display: flex;
-    flex-shrink: 0;
-    min-width: 100%;
-    gap: 20px; /* Space between images */
-    animation: scroll-left 15s linear infinite;
-  }
-
-  /* Style your images */
-  .marquee-track img {
-    height: 100px;
-    width: auto;
-    object-fit: cover;
-    border-radius: 8px;
-  }
-
-  /* Pause the animation on hover (optional) */
-  .marquee-container:hover .marquee-track {
-    animation-play-state: paused;
-  }
-
-  /* Keyframe to slide everything left by exactly 100% */
-  @keyframes scroll-left {
-    from {
-      transform: translateX(0%);
-    }
-    to {
-      transform: translateX(-100%);
-    }
-  }
-</style>
 
 
 
