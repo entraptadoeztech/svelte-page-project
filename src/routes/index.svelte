@@ -6,7 +6,7 @@ Check out the random pages
 		</p>
 		<div class="links">
 <center>
-            <a href = "/+test/+page">
+            <a href = "/testing">
 <img
   src="/IMG_1277.gif"
   width = "auto"
